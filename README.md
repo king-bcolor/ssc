@@ -61,6 +61,9 @@ demo.css
 .a{width:200px;height:200px;}
 ```
 
+![](http://kaifariji.top/static/img/60daa1fbb05ce23154e24e09eb735d7d.css1.png)
+![](http://kaifariji.top/static/img/ec0dc22d5657ca6b342595d7a0d6397a.css2.png)
+
 ## 三大特性
  - 原子级别的属性复用
  - 块状分发编译后文件
