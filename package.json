@@ -1,0 +1,23 @@
+{
+  "name": "npm-ssc-tool",
+  "version": "0.0.5",
+  "description": "css预处理器,css preprocessor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ssc": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/king-bcolor/ssc.git"
+  },
+  "keywords": [
+    "css",
+    "tool",
+    "preprocessor"
+  ],
+  "author": "JunHao_zhang",
+  "license": "MIT"
+}
