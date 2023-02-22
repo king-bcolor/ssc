@@ -60,9 +60,12 @@ demo.vue
 demo.css    
 .a{width:200px;height:200px;}
 ```
-
+编译前
 ![](http://kaifariji.top/static/img/60daa1fbb05ce23154e24e09eb735d7d.css1.png)
+编译后
 ![](http://kaifariji.top/static/img/ec0dc22d5657ca6b342595d7a0d6397a.css2.png)
+
+如果有一定数量的样式属性，则复用效果更好更直观
 
 ## 三大特性
  - 原子级别的属性复用
