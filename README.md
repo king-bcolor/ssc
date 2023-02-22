@@ -1,5 +1,5 @@
 # ssc
-![logo](http://kaifariji.top/static/img/f8088ac8813475d18fe6ece6ecd385a3.图片1.png)
+![](http://kaifariji.top/static/img/f8088ac8813475d18fe6ece6ecd385a3.图片1.png)
 
 
 
