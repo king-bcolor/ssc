@@ -17,6 +17,7 @@ npm i npm-ssc-tool
 ```
 ## 使用
 ### 语法规范
+后缀名为 `.ssc`
     
 ```
 attr:   //属性块
