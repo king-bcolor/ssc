@@ -13,7 +13,7 @@
 推荐node 16 ，但本包并未引入第三方依赖，其他版本node暂未测试
 ## 安装
 ```
-npm i npm-ssc-tool
+npm i npm-ssc-tool -g
 ```
 ## 使用
 ### 语法规范
